@@ -1,3 +1,5 @@
+`Green Rabbit`
+
 ### [H-1] Incorrect logic `Ethereal::mint` function which denies a user from minting an NFT even the user sending more ether for it.
 
 **Description:**
